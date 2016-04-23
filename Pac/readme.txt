@@ -1,1 +1,1 @@
-Klasa uruchamijąca grę: src/pac/Pac.java
+Klasa uruchamiająca grę: src/pac/Pac.java
