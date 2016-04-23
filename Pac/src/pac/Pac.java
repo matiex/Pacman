@@ -3,7 +3,7 @@
 * 
 * prowadzący: dr inż. Piotr Witoński
 * 
-* autor: Mateusz Byczkowski 4I1 nr albumu: 265741
+* autor: Mateusz Byczkowski 4I1
 * 
 * semestr 2015/2016 Z
 */
